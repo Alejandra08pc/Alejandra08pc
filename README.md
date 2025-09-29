@@ -9,7 +9,7 @@
 
 ### 🧠 Sobre mí
 
-- 🎓 Estudio Ingeniería de Software con IA en SENATI 🇵🇪  
+- 🎓 Estudio Ingeniería de Software con IA en la Universidad UPN 🇵🇪  
 - 🤖 Desarrollo sistemas web, móviles y proyectos de inteligencia artificial  
 - 🚀 Experiencia con **Laravel, Firebase, Figma, Flutter y Sql **  
 - 🌱 Actualmente explorando temas como Data Science y Machine Learning
@@ -51,12 +51,6 @@
 - App móvil para registro de productos y delivery con Firebase 📱  
 - Proyectos de predicción con Python y machine learning 🤖
 - Sistema de Gestión de Expedientes🤖
-
----
-
-### 📫 Contáctame
-
-- 📧 cieloponcecu@gmail.com
 ---
 
 <p align="center">¡Gracias por visitar mi perfil! 😊</p>

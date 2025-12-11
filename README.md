@@ -9,7 +9,7 @@
 
 ### 🧠 Sobre mí
 
-- 🎓 Estudio Ingeniería de Software con IA en la Universidad UPN 🇵🇪  
+- 🎓 Estudio Ingeniería de Software con IA en 🇵🇪  
 - 🤖 Desarrollo sistemas web, móviles y proyectos de inteligencia artificial  
 - 🚀 Experiencia con **Laravel, Firebase, Figma, Flutter y Sql **  
 - 🌱 Actualmente explorando temas como Data Science y Machine Learning
